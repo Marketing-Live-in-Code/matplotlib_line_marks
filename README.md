@@ -1,1 +1,2 @@
-# matplotlib_line_marks
+# 線條Marks圖樣標記
+課程中教導如何設定線條的圖樣，並且修該刻度。
